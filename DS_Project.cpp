@@ -131,6 +131,9 @@ int main()
             }
 
             break;
+
+        case 0:
+            break;
         default:
             cout << "Invalid input\n";
             break;
