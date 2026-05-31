@@ -271,4 +271,3 @@ GitHub Repository: `mrGwynbleidd/DS_Project`
 ## License
 
 This project is for educational purposes.
-You may add a license file if you want to make the project open-source.
